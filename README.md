@@ -1,8 +1,8 @@
-<h1 align="center">Hey 👋, Mike here!</h1>
-<h3 align="center">Every individual holds the capacity to evolve digitally; my mission is to provide the knowledge and tools to make that a reality.</h3>
+<h1 align="left">Hey 👋, Mike here!</h1>
+<h3 align="left">Every individual holds the capacity to evolve digitally; my mission is to provide the knowledge and tools to make that a reality.</h3>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://twitter.com/systemsculpt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="systemsculpt" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@systemsculpt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@systemsculpt" height="30" width="40" /></a>
 <a href="https://discord.gg/3gNUZJWxnJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3gNUZJWxnJ" height="30" width="40" /></a>
