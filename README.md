@@ -10,7 +10,7 @@
 
 ---
 
-- 🔭 Currently working on: **uploading all of my personal dotfiles/configs**
+- 🔭 Currently working on: **SystemSculpt website, uploading all of my personal dotfiles/configs**
 
 - 🌱 Currently learning: **rust, golang**
 
