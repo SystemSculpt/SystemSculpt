@@ -1,4 +1,4 @@
-# Michael Stolarz
+# Mike
 
 **Software Engineer** - Autonomous AI systems, full-stack development, and technical operations.
 
