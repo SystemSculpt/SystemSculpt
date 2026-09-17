@@ -16,18 +16,14 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
 
       - name: Refresh feed sections
         env:
           ENABLE_WRITING: "true"
           ENABLE_VIDEO: "false"
           MAX_ITEMS: "4"
-        run: python scripts/update_readme.py
+        run: python3 scripts/update_readme.py
 
       - name: Commit if changed
         run: |
