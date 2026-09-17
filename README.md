@@ -28,6 +28,22 @@ Blaxel gives AI agents fast, isolated sandboxes to work in. Baseten runs inferen
 
 I am most useful when the problem is ambiguous, the surface area is large, and someone needs to own the whole path from product shape to implementation to adoption.
 
+## Try Blaxel in one line
+
+Give your coding agent the Blaxel skills, then ask it to spin up a sandbox:
+
+```sh
+npx skills add blaxel-ai/agent-skills
+```
+
+Works with Claude Code, Codex, Cursor and most agents that read skills. Prefer to drive it yourself? Install the CLI with `brew install blaxel-ai/blaxel/blaxel` and follow the [quickstart](https://docs.blaxel.ai/Get-started).
+
+<!-- WRITING:START -->
+<!-- WRITING:END -->
+
+<!-- VIDEO:START -->
+<!-- VIDEO:END -->
+
 ## On the side
 
 **[SystemSculpt AI](https://github.com/SystemSculpt/obsidian-systemsculpt-ai)** is my hobby project: an agent workspace for Obsidian, with 37k+ downloads and 190+ GitHub stars.
