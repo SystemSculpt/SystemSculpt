@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="https://michaelstolarz.com">Website</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/michaelstolarz">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://x.com/MichaelStolarz">X</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@systemsculpt">YouTube</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:systemsculpt@gmail.com">Email</a>
+  <a href="https://michaelstolarz.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/website-white.svg"><img alt="Website" src="assets/icons/website-dark.svg" height="18" align="absmiddle"></picture>&nbsp;&nbsp;Website</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/michaelstolarz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/linkedin-white.svg"><img alt="LinkedIn" src="assets/icons/linkedin-dark.svg" height="18" align="absmiddle"></picture>&nbsp;&nbsp;LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/MichaelStolarz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/x-white.svg"><img alt="X" src="assets/icons/x-dark.svg" height="18" align="absmiddle"></picture>&nbsp;&nbsp;X</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@systemsculpt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/youtube-white.svg"><img alt="YouTube" src="assets/icons/youtube-dark.svg" height="18" align="absmiddle"></picture>&nbsp;&nbsp;YouTube</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:systemsculpt@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/email-white.svg"><img alt="Email" src="assets/icons/email-dark.svg" height="18" align="absmiddle"></picture>&nbsp;&nbsp;Email</a>
 </p>
 
 ## About
