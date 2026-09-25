@@ -16,7 +16,7 @@
 
 ## About
 
-I lead **Agent Experience and Developer Experience at [Blaxel](https://blaxel.ai)**, now part of [Baseten](https://www.baseten.co), and **Developer Relations at Baseten**.
+I own **Agent Experience and Developer Experience at [Blaxel](https://blaxel.ai)**, now part of [Baseten](https://www.baseten.co), and **Developer Relations at Baseten**.
 
 Blaxel gives AI agents fast, isolated sandboxes to work in. Baseten runs inference for production AI. My job is to make that whole surface feel obvious: the CLI, SDKs, docs, integrations and workflows that coding agents can operate directly, and that developers can ship with on day one.
 
