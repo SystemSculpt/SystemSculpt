@@ -39,6 +39,11 @@ npx skills add blaxel-ai/agent-skills
 Works with Claude Code, Codex, Cursor and most agents that read skills. Prefer to drive it yourself? Install the CLI with `brew install blaxel-ai/blaxel/blaxel` and follow the [quickstart](https://docs.blaxel.ai/Get-started).
 
 <!-- WRITING:START -->
+## Latest writing
+
+- [my first writing.](https://stolarz.ai/writing/my-first-writing/) <sub>Oct 21, 2026</sub>
+
+More at [michaelstolarz.com/writing](https://michaelstolarz.com/writing/).
 <!-- WRITING:END -->
 
 <!-- VIDEO:START -->
